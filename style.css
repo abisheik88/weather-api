@@ -1,0 +1,28 @@
+div.col-lg-4{
+    margin-bottom: 20px;
+    margin-top:10px;
+}
+
+div.card-header{
+    text-align: center;
+    font-weight: bolder;
+    background-image: linear-gradient(to right,grey,lightgrey);
+    
+}
+div.card{
+    border:2px solid black;
+}
+div.card-body{
+    background-image: linear-gradient(to right,grey,lightgrey);
+    text-align: center;
+
+}
+body{
+    background-color: blanchedalmond;
+}
+alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+  }
